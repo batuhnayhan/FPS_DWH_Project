@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "FPS_DWH_Project_ETL_Package", "FPS_DWH_Project_ETL_Package.dtproj", "{6ACC9F42-8468-4C43-B072-3C3979EA244F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ACC9F42-8468-4C43-B072-3C3979EA244F}.Development|Default.ActiveCfg = Development
+		{6ACC9F42-8468-4C43-B072-3C3979EA244F}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E21E4E7-301F-4E24-8EF1-A0C9170994B2}
+	EndGlobalSection
+EndGlobal
